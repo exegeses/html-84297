@@ -6,7 +6,7 @@
 
 > Curso: Desarrollo Web con HTML |  
 > Martes, Miércoles, Jueves y Viernes de 14hs a 17hs (Arg) |  
-> 6 clases desde 01/08/2025 hasta 12/05/2025 |  
+> 6 clases desde 01/08/2025 hasta 12/08/2025 |  
 > Código: 84297 |  
 > sensei: Marcos Pinardi |  
 
