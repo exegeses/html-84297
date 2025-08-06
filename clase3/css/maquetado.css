@@ -1,0 +1,20 @@
+body{
+    width: 1200px;
+    margin: auto; /* Centrar un contenedor */
+    background-color: #3C0B24;
+}
+header{
+    width: 1200px;
+    height: 96px;
+    background-color: #2B081A;
+}
+main{
+    width: 1200px;
+    min-height: 820px;
+    background-color: #561034;
+}
+footer{
+    width: 1200px;
+    height: 216px;
+    background-color: #2B081A;
+}
