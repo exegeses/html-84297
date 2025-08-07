@@ -1,0 +1,22 @@
+body{
+    background-color: hsl(280,60%, 30%);
+}
+main{
+    width: 1024px;
+    margin: 40px auto;
+    background-color: hsl(280,60%, 20%);
+}
+
+section{
+    margin: 56px 0px;
+    min-height: 380px;
+    background-color: hsl(280,60%, 10%);
+    border: 1px solid hsl(280,60%, 60%);
+}
+
+    article{
+        width: 128px;
+        height: 96px;
+        margin: 40px;
+        background-color: hsl(280, 80%, 80%);
+    }
