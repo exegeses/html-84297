@@ -1,0 +1,21 @@
+body{
+    background-color: hsl(46, 78%, 79%);
+    width: 1200px;
+    margin: auto;
+}
+footer{
+    background-color:  hsl(46, 78%, 50%);
+    height: 216px;
+}
+    footer div{
+        display: flex;
+        background-color: hsl(46, 78%, 40%);
+    }
+        footer div img{
+            width: 64px;
+        }
+
+    footer nav{
+        display: flex;
+        justify-content: center;
+    }
